@@ -15,7 +15,7 @@ For information about all previous VAHC events and to access the open-access pro
 LATEST NEWS
 ===========
 
-- 8/14/2022: Deadline extension: new deadline 8/26/2022
+- 8/14/2022: Deadline extended to 8/26/2022
 - 7/15/2022: [Call For Papers](./call-for-papers.html) is out!
 
 

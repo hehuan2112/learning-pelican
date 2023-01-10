@@ -5,9 +5,5 @@ Slug: call-for-papers
 Authors: VAHC Committee
 Summary: VAHC 2023 Call for papers
 
-CALL FOR PAPERS, POSTERS, AND DEMONSTRATIONS
-============================================
 
-OK? No.
-
-More! and more! Logo more?
+TBD

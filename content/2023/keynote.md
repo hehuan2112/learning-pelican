@@ -1,9 +1,10 @@
-Title: Program
+Title: Keynote
 Category: 2023
 Date: 2023-07-21
-Slug: program
+Slug: keynote
 Authors: VAHC Committee
-Summary: VAHC 2023 Program
+Summary: VAHC 2023 Keynote
+
 
 
 TBD
