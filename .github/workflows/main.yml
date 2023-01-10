@@ -37,6 +37,6 @@ jobs:
           
       # Runs a build for pelican
       - name: GitHub Pages Pelican Build Action
-      # You may pin to the exact commit or the version.
-      # uses: nelsonjchen/gh-pages-pelican-action@893b835772c6b3b65286175cd96994154e7db090
         uses: nelsonjchen/gh-pages-pelican-action@0.1.10
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
